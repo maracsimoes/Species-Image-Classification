@@ -1,0 +1,16 @@
+.python-version
+venv
+W05
+Deep Learning24_25Mestrado.pdf 
+data
+data_sample
+all_data
+data_zipped.zip
+/models
+/data*/
+data_split
+data_clean_dbscan
+data_clean_vgg16
+data_clean_clip
+wandb
+data_zip.zip
