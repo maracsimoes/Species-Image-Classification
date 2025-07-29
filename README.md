@@ -4,7 +4,6 @@
 This project aims to classify biological species families based on images from the Encyclopedia of Life (EOL). The dataset contains 202 classes with a strong imbalance in class distribution. The main challenge was to develop robust models capable of generalizing well despite varying image quality and limited samples for some classes.
 
 ## Dataset
-- **Source:** Encyclopedia of Life (EOL)  
 - **Size:** Approximately 33.6k images across 202 families, with highly imbalanced class sizes (from 29 to 300 images per class).  
 - **Characteristics:** Mainly RGB images standardized to 224x224 pixels, including some grayscale images.  
 - **Preprocessing:** Outlier removal using feature extraction (CLIP/VGG16) and anomaly detection; normalization; one-hot encoding of labels.
