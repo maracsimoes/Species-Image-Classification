@@ -1,5 +1,7 @@
 # Species Family Classification Using Deep Learning 
 
+**This project was developed as part of the Deep Learning course.**
+
 ## Overview
 This project aims to classify biological species families based on images from the Encyclopedia of Life (EOL). The dataset contains 202 classes with a strong imbalance in class distribution. The main challenge was to develop robust models capable of generalizing well despite varying image quality and limited samples for some classes.
 
